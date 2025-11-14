@@ -9,7 +9,7 @@ authors = [
 ]
 dependencies = [
   "flet==0.28.3",
-  "pymongo==4.15.4"
+  #"pymongo==4.15.4"
 ]
 
 [tool.flet]
